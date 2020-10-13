@@ -1,2 +1,2 @@
 # Join-Us
-Interested in hacking, building and getting hands dirty with coding, come join us!
+Interested in hacking, building, developing and getting hands dirty with coding? Come join us!
